@@ -1,0 +1,37 @@
+
+@font-face {font-family: "iconfont";
+  src: url('http://at.alicdn.com/t/font_rm65sycs8n597ldi.eot?t=1481788989701'); /* IE9*/
+  src: url('http://at.alicdn.com/t/font_rm65sycs8n597ldi.eot?t=1481788989701#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('http://at.alicdn.com/t/font_rm65sycs8n597ldi.woff?t=1481788989701') format('woff'), /* chrome, firefox */
+  url('http://at.alicdn.com/t/font_rm65sycs8n597ldi.ttf?t=1481788989701') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('http://at.alicdn.com/t/font_rm65sycs8n597ldi.svg?t=1481788989701#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:2.5em;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bangongxitong:before { content: "\e6ca"; }
+
+.icon-xitongxinxi:before { content: "\e92b"; }
+
+.icon-402:before { content: "\e62e"; }
+
+.icon-tongjifenxi1:before { content: "\e69a"; }
+
+.icon-3:before { content: "\e600"; }
+
+.icon-3-copy:before { content: "\e92f"; }
+
+.icon-tongjifenxi1-copy:before { content: "\e930"; }
+
+.icon-402-copy:before { content: "\e931"; }
+
+.icon-xitongxinxi-copy:before { content: "\e932"; }
+
+.icon-bangongxitong-copy:before { content: "\e933"; }
+
